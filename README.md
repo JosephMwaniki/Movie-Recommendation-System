@@ -1,6 +1,7 @@
 # Movie Recommendations
 
 **Author**: Joseph Mureithi Mwaniki
+![1509983908-best-movies-2017](https://github.com/JosephMwaniki/Movie-Recommendation-System/assets/133277796/f0f67904-ca58-455a-9ead-31472351667e)
 
 ## Overview
 
